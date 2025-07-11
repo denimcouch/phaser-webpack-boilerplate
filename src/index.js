@@ -10,6 +10,7 @@ const config = {
       gravity: { y: 200 }
     }
   },
+  parent: 'app',
   scene: {
     preload: preload,
     create: create
